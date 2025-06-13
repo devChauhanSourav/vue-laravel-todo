@@ -1,6 +1,3 @@
-# Update README with SPA clarification section
-
-updated_readme_content = """
 # 📝 Vue + Laravel Todo App
 
 A full-stack TODO list application built with **Vue 3 (Vite)** on the frontend and **Laravel 11** as the backend API. This project demonstrates CRUD operations, API integration, and component-based development.
