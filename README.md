@@ -1,7 +1,19 @@
+# Update README with SPA clarification section
 
+updated_readme_content = """
 # 📝 Vue + Laravel Todo App
 
 A full-stack TODO list application built with **Vue 3 (Vite)** on the frontend and **Laravel 11** as the backend API. This project demonstrates CRUD operations, API integration, and component-based development.
+
+---
+
+## 🧠 Architecture: SPA (Single Page Application)
+
+This app is built as a **Single Page Application (SPA)**:
+
+- The **Vue 3 frontend** loads once and handles all UI updates dynamically using **JavaScript**.
+- API requests are made using **Axios** without reloading the page.
+- The **Laravel backend** is used only as a REST API, not for rendering views.
 
 ---
 
